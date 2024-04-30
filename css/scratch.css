@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fresh{
+    color: rgb(234, 132, 255);
+    font-size: smaller;
+}
+
+.fancy{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.orderfavthings{
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.unfavthings{
+    font-family: cursive;
+    color:gray;
+    text-align: left;
+    left: 50%;
+}
